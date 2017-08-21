@@ -1,4 +1,4 @@
-package com.example.readinglist;
+package com.huntdreams.readinglist;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
